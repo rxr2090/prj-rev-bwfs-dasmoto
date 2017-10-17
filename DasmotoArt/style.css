@@ -1,0 +1,34 @@
+h1, h2, h3, p {
+  font-family: Helvetica;
+    }
+
+h1 {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+   }
+<!-- this is yellow, but I thought khaki is army green -->
+<!-- tried to use a relative path for the background pic but it never worked -->
+
+.section h2 {
+  font-size: 32px;
+  color: white;
+}
+
+#brushes {
+  background-color: MediumSpringGreen;
+}
+
+#frames {
+  background-color: LightCoral;
+}
+
+#paint {
+  background-color: SkyBlue;
+}
+
+.prices {
+  font-weight: bold;
+  color: Blue;
+}
